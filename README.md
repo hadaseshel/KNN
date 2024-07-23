@@ -1,1 +1,2 @@
 # KNN
+Implement KNN algorithm.
